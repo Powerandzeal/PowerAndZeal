@@ -41,6 +41,8 @@
     <a href="" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
+  </div>
+  <div>
     <a href=https://vk.com/id182037056 target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
