@@ -33,7 +33,7 @@
 - Сборка проектов: Maven.
 - Контейнеризация: базовое знание Docker.
 
-  ### 🛠 Инструменты:
+### 🛠 Инструменты:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;   
