@@ -43,9 +43,10 @@
     </a>
   </div>
   
+  <!---
 ### Leetcode:
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Powerandzeal)](https://github.com/KnlnKS/leetcode-stats)
-
+-->
 
 
