@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  title="Docker" alt="Docker" width="40" height="40"/>&nbsp;    
 </div>
 
-## Социальные сети 🤝:
+### Социальные сети 🤝:
 
   <div id="badges">
     <a href="" target="_blank">
