@@ -1,10 +1,7 @@
 # Привет, Меня зовут Сергей:
 
-Software engineering student and aspiring software entrepreneur with  
-a focus on modular software and clean code.
-
-Interested in building fun, interactive, and beautiful experiences  
-(front-end/graphics/games/VR/creative coding).  
+🚀 Я выпускник курса по Java разработке, и теперь готов применить свои знания на практике. 
+я успешно прошел курс на Udemy, чтобы глубже понять аспекты создания современных веб-приложений. 
 
 ## Life
 
@@ -36,23 +33,6 @@ Interested in building fun, interactive, and beautiful experiences
 - Сборка проектов: Maven.
 - Контейнеризация: базовое знание Docker.
 
-_Favorite programming language: Rust :crab:._  
-_Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
-:skateboard: skateboarding, :computer_mouse: interactive experiences._
-
-### Software
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
-[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
-[![Helix](https://img.shields.io/badge/Helix-3b224c?style=for-the-badge)](https://helix-editor.com)
-[![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge)](https://inkscape.org)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-[![Zellij](https://img.shields.io/badge/Zellij-A3BD8D?style=for-the-badge)](https://zellij.dev)
-[![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
 
 <p align="center">
     <b>Looking for a software engineering intern?
@@ -66,30 +46,4 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
     <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
 </a>-->
 
-<a href="mailto:duongnguyen18@siggraph.org">
-    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
-</a>
 
-<a href="https://www.linkedin.com/in/zach-nguyen">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
-</a>
-
-<a href="https://paypal.me/dnguy38">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
-</a>
-
-<a href="https://www.buymeacoffee.com/cszach">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
-</a>
-
-<a href="https://liberapay.com/cszach">
-    <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
-</a>
-
-<a href="https://www.instagram.com/thechonkypenguin">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
-</a>
-
-<a href="https://dribbble.com/cszach">
-    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
-</a>
