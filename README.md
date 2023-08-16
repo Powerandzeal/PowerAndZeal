@@ -46,6 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  title="Docker" alt="Docker" width="40" height="40"/>&nbsp;      
 </div>
+
 ### 🤝 Социальные сети:
 
   <div id="badges">
@@ -55,21 +56,7 @@
     <a href=https://vk.com/id182037056 target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-  
   </div>
 
----
----
-<p align="center">
-    <b>Looking for a software engineering intern?
-        <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
-    </b>
-</p>
-
----
-
-<!--<a href="https://novakcgx.me">
-    <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
-</a>-->
 
 
