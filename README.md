@@ -46,7 +46,11 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
-    [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Powerandzeal)](https://github.com/KnlnKS/leetcode-stats)
+    <div
+          [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Powerandzeal)](https://github.com/KnlnKS/leetcode-stats)
+
+      </div>
+
 
 
 
