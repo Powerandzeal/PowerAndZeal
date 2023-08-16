@@ -3,24 +3,6 @@
 🚀 Я выпускник курса по Java разработке, и теперь готов применить свои знания на практике. 
 я успешно прошел курс на Udemy, чтобы глубже понять аспекты создания современных веб-приложений. 
 
-## Life
-
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
-
-:shipit: CS + REU Fellow @ [**University of Rochester**][ur]  
-:shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
-:shipit: Android @ [**Taperk**][taperk]  
-:shipit: Full-stack @ [**RocLab**][roclab]  
-:shipit: Founder @ [**Abyss Inc.**][abyss]  
-:shipit: Founder @ [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
-:shipit: Open-source enthusiast year-round (3400+ contributions)
-
-[42tm]: https://github.com/42tm
-[abyss]: https://github.com/abyss-inc
-[ur]: https://rochester.edu
-[siggraph]: https://siggraph.org
-[taperk]: https://taperk.com
-[roclab]: https://roclab.io
 
 ## Мой стек технологий 🛠️
 
@@ -33,7 +15,7 @@
 - Сборка проектов: Maven.
 - Контейнеризация: базовое знание Docker.
 
-## 🛠 Инструменты:
+  ## 🛠 Инструменты:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;   
