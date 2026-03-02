@@ -1,4 +1,3 @@
-# My name is Sergey im From Nizny Novgorod,Russia
 Java Dev
 
 <!---
